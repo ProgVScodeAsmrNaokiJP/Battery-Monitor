@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Battery Monitor | Prog Asmr VScode Naoki JP</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="card">
+        <div class="card-title">Battery Monitor</div>
+
+        <div class="battery-wrap">
+            <div class="battery-icon">
+                <div class="battery-body">
+                    <div class="battery-fill" id="batteryFill"></div>
+                </div>
+                <div class="battery-tip"></div>
+                <div class="bolt" id="bolt">⚡︎</div>
+            </div>
+            <div>
+                <div class="battery-pct" id="batteryPct"--><span>%</span></div>
+                <div class="battery-status" id="batteryStatus">READING</div>
+            </div>
+        </div>
+
+        <div class="divider"></div>
+
+        <div class="meta-row">
+            <span class="meta-label">電源</span>
+            <span class="meta-value" id="metaSource">--</span>
+        </div>
+        <div class="meta-row">
+            <span class="meta-label" id="timeLabel">残り時間</span>
+            <span class="meta-value" id="metaTime">--</span>
+        </div>
+        <div class="log-title">イベントログ</div>
+        <div class="log-list" id="logList"></div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
