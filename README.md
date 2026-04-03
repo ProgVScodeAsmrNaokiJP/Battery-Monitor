@@ -4,7 +4,9 @@ Battery Monitor Tool: When you plug your charger into your PC, it shows your cur
 
 ## 🔌 Before Charging
 <img src="image/1/1.png" width="30%">
+
 ## ⚡ Charging
 <img src="image/1/2.png" width="30%">
+
 ## 🔋 After Charging
 <img src="image/1/3.png" width="30%">
