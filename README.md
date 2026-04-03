@@ -3,10 +3,13 @@
 
 
 ## 🔌 Before Charging
-<img src="image/1/1.png" width="30%">
+<img src="image/1.png" width="45%">
 
 ## ⚡ Charging
-<img src="image/1/2.png" width="30%">
+<img src="image/2.png" width="45%">
 
 ## 🔋 After Charging
-<img src="image/1/3.png" width="30%">
+<img src="image/3.png" width="45%">
+
+## ⚠️ Browser isn’t supported
+<img src="image/4.png" width="45%">
